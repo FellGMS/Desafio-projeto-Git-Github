@@ -5,4 +5,4 @@
 - Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. 
 - Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;)
 
-## Slides [Links Úteis] (https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view?usp=sharing)
+## Slides [Links Úteis] ("https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view?usp=sharing")
