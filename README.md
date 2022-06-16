@@ -1,2 +1,5 @@
-# Desafio-projeto-Git-Github
-Projeto para o desafio sobre GIT/GitHub
+# Projeto Git/Github
+
+##Projeto de criação, atualização e sincronização de um repositório no GitHub para o desafio Git/GitHub.
+
+
